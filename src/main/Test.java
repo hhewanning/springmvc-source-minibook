@@ -1,5 +1,5 @@
 class Test{
 	public String getStr{
-		return "nihao ";
+		return "nihao1 ";
 	}
 }
